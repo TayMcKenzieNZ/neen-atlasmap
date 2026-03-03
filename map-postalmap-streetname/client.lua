@@ -13,6 +13,13 @@ CreateThread(function()
     SetRadarZoom(1200) -- Radar zoom one time on resource start
 end)
 
+local function UpdateRadarZoom() -- Some people have reported that the minimap is buggy...
+    SetRadarZoom(1100)
+    SetTimeout(10000, UpdateRadarZoom)
+end
+
+UpdateRadarZoom()
+
 if EnableCayoMiniMap then
     local function CreateBlip()
         local BlipCoords = {
