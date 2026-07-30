@@ -1,6 +1,6 @@
 # neen-atlasmap
 
-![champ](https://r2.fivemanage.com/qFztShHCe1bhCDvTI4vxv/atlasmap.png)
+![champ](https://r2.fivemanage.com/ngdTgLtsPcWttgwAMACiI/atlasmap.png)
 
 > **Original map**
 
@@ -32,6 +32,6 @@ No Streets             |  With Streets
 
 > **Discord**
 
-http://discord.bbv.world/
+https://discord.bulgar.dev
 
 <a href='https://ko-fi.com/U7U7NQXLZ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
